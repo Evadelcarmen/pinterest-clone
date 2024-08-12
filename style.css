@@ -154,7 +154,7 @@ padding: 0px 15px;
     padding: 4px;
     visibility: hidden;
     display: none;
-   cursor:pointer;
+    cursor: pointer;
 }
 .oculto2{
     position: absolute;
@@ -168,5 +168,5 @@ padding: 0px 15px;
     padding: 4px;
     visibility: hidden;
     display: none;
-   cursor:pointer;
+    cursor: pointer;
 }
