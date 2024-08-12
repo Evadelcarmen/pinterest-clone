@@ -9,7 +9,7 @@ El proposito de este proyecto fue llevar a cabo las enseñanzas de los lenguajes
 Tambien hicimos uso de imagenes de nuestro gusto y agrado para reaizar el collage que comunmente se muestra en Pinterest :kissing_smiling_eyes:
 En estos links puedes encontrar las paginas en el que encontre los simbolos:
 * [Google Icons](https://fonts.google.com/icons)
-* [Bootsrtap](https://icons.getbootstrap.com/)
+* [Bootstrap](https://icons.getbootstrap.com/)
 
 Puedes encontrar mi proyecto dentro de este link :
 [Pinterest-Clone](https://pinterest-clone-three-nu.vercel.app/).
